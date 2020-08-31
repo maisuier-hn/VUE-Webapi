@@ -56,7 +56,6 @@ export default {
   },
   methods: {
     getData () {
-      console.log('123')
       console.log(this.dataA)
       this.tableData = this.dataA
     }
